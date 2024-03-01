@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Education App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="video">Video</string>
+    <string name="quiz">Quiz</string>
+
+    <!-- name of buttons -->
+    <string name="watch_video">Watch Video</string>
+    <string name="take_quiz">Take Quiz</string>
+    <!-- content description -->
+    <string name="java">Java</string>
+    <string name="python">Python</string>
+    <string name="android">Android</string>
+
+    <!--    bottom score sheet-->
+    <string name="your_score_is">Your Score is</string>
+    <string name="restart_quiz">Restart Quiz</string>
+
+
+</resources>
